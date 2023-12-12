@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayesha</h1>
 <h3 align="center">A passionate frontend developer and looking for opportunities</h3>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 currently learning **web development**
 
 - 📫 How to reach me **ayeshakhanzada09@gmail.com**
 
